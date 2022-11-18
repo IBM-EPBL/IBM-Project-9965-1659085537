@@ -15,7 +15,7 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
   Team Leader - Shriman S    
   Team Member 1 - Suriyakumar R K    
   Team Member 2 - Shundararajan K R    
-  Team Member 3 - Samp Pranav P
+  Team Member 3 - Sam Pranav P
   
   ## Industry Mentor:
   Name: Krishna Chaitanya
